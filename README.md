@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:VEDHASHREE.G
 
-### Register Number:
+### Register Number:212223240171
 
 ```python
 class CNNClassifier(nn.Module):
